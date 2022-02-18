@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="main" type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
+    <option name="MAIN_CLASS_NAME" value="info.java.Main" />
+    <module name="Ramadaravath.java" />
+    <RunnerSettings RunnerId="Run" />
+    <ConfigurationWrapper RunnerId="Run" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
